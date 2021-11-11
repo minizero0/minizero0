@@ -1,4 +1,4 @@
-
+### WHERE I AM🤔
 
 <!--
 **minizero0/minizero0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-###WHERE I AM🤔
+
 
 <a href="https://42seoul.kr/seoul42/contents/view?contentsNo=16&level=2&menuNo=28" target="_blank"><img src="https://img.shields.io/badge/42seoul-000000?style=flat-square&logo=42&logoColor=white"/></a>  <a href="[연결할 링크]" target="_blank"><img src="https://img.shields.io/badge/joxxac-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 
