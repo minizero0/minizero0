@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 </div>
 <hr>
+
 ## :postbox: Contact
 <div>
 <a href="mailto:dudals1069@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=dudals1069@gmail.com"/> </a>
