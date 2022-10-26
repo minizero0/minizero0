@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 ## :postbox: Contact
 <div>
 <a href="mailto:dudals1069@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=dudals1069@gmail.com"/> </a>
+ </div>
 
 
 <!--<a href="https://42seoul.kr/seoul42/contents/view?contentsNo=16&level=2&menuNo=28" target="_blank"><img src="https://img.shields.io/badge/42seoul-000000?style=flat-square&logo=42&logoColor=white"/></a>-->
