@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 </div>
 <hr>
 
-## :book TECH BLOG
+## :book: TECH BLOG
 https://velog.io/@minizero0/about
 <hr>
 
