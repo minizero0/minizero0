@@ -37,6 +37,7 @@ https://velog.io/@minizero0/about
  </div>
  
 <hr>
+<a align="center" href="https://www.github.com/seungpang"><img src="https://clickme.today/api/clicks/count?id=seungpang"/></a> <- 클릭하면 재밌는 일이!
 <!--<a href="https://42seoul.kr/seoul42/contents/view?contentsNo=16&level=2&menuNo=28" target="_blank"><img src="https://img.shields.io/badge/42seoul-000000?style=flat-square&logo=42&logoColor=white"/></a>-->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minizero0&show_icons=true&theme=midnight-purple)
