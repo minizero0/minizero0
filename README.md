@@ -37,8 +37,12 @@ https://velog.io/@minizero0/about
  </div>
  
 <hr>
-<a align="center" href="https://www.github.com/minizero0"><img src="https://clickme.today/api/clicks/count?id=minizero0"/></a> <- 클릭하면 재밌는 일이!
-<!--<a href="https://42seoul.kr/seoul42/contents/view?contentsNo=16&level=2&menuNo=28" target="_blank"><img src="https://img.shields.io/badge/42seoul-000000?style=flat-square&logo=42&logoColor=white"/></a>-->
+<a align="center" href="https://www.github.com/minizero0"><img src="https://clickme.today/api/v1/svg-image/increment?name=minizero0"/></a> <- 클릭하면 재밌는 일이!
+</br>
+</br>
+[Generate Your Own ClickMe](https://clickme.today/main)
+</br>
 
+![Seungpang's github stats](https://github-readme-stats.vercel.app/api?username=Seungpang&show_icons=true&theme=merko)
 
 
