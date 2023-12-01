@@ -43,6 +43,6 @@ https://velog.io/@minizero0/about
 [Generate Your Own ClickMe](https://clickme.today/main)
 </br>
 
-![Seungpang's github stats](https://github-readme-stats.vercel.app/api?username=Seungpang&show_icons=true&theme=merko)
+![minizero0's github stats](https://github-readme-stats.vercel.app/api?username=minizero0&show_icons=true&theme=merko)
 
 
