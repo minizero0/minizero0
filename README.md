@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ## :book: TECH BLOG
 https://velog.io/@minizero0/about
 <hr>
-## :postbox: Contact
+## 📮 Contact
 <div> Click ➡️  
 <a href="mailto:dudals1069@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=dudals1069@gmail.com"/> </a>
  </div>
